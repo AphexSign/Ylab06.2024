@@ -1,0 +1,9 @@
+<archetype>
+  <id>Coworking-ServiceApp</id>
+  <sources>
+    <source>src/ru.yarm.coworking.Menus.Main/java/App.java</source>
+  </sources>
+  <testSources>
+    <source>src/test/java/AppTest.java</source>
+  </testSources>
+</archetype>

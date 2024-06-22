@@ -1,0 +1,1 @@
+java -jar Coworking-ServiceApp.jar
