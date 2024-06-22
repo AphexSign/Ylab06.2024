@@ -1,6 +1,7 @@
 # Ylab06.2024
 
 Занятие 1: Вводное [ДЗ_N1](https://github.com/AphexSign/Ylab06.2024/tree/main/homework1/Coworking-ServiceApp)
+[JAR ДЗ_N1](https://github.com/AphexSign/Ylab06.2024/tree/main/homework1/Coworking-ServiceApp/out/artifacts/Coworking_ServiceApp_jar)
 
 # Coworking-Service 
 Разработайте приложение для управления коворкинг-пространством. Приложение должно позволять пользователям бронировать рабочие места, конференц-залы, а также управлять бронированиями и просматривать доступность ресурсов.
